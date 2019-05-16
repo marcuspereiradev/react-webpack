@@ -1,1 +1,3 @@
-console.log('webpack it is working!!!!!!')
+const sum = require('./app')
+
+console.log(sum(2,2))
